@@ -1,3 +1,21 @@
 # Brand
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Brand</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://rime.co" property="cc:attributionName" rel="cc:attributionURL">Rime</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+## Design
+![design](design-01.png)
+
+### [design.ai](design.ai) | [design-01.png](design-01.png) | [design-white-pink-01.png](design-white-pink-01.png)
+
+## Glyph
+![glyph](glyph-01.png)
+
+### [glyph.ai](glyph.ai) | [glyph-01.png](glyph-01.png)
+
+## Logo 
+![logo](logo-01.png)
+
+### [logo.ai](logo.ai) | [logo-01.png](logo-01.png)
+
+## Logotype 
+![logotype](logotype-01.png)
+
+### [logotype.ai](logotype.ai) | [logotype-01.png](logotype-01.png)
