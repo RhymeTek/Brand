@@ -2,8 +2,8 @@
 
 ![design](design-01.png) 
 
-![icon](design-icon.png)
+![icon](design_icon.png)
 
-![type](design-type.png)
+![type](design_type.png)
 
-![logo](design-logo.png)
+![logo](design_logo.png)
