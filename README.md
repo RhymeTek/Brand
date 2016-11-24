@@ -1,4 +1,4 @@
-# Brand
+# Rime
 
 ![icon](design_icon.png)
 ### Glyph: ✱ 
